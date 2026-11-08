@@ -1,4 +1,4 @@
-<h1 align="left">Hola, soy Ever Cáceres 👋</h1>
+<h1 align="left">Hola, soy Ever Cáceres</h1>
 
 **Desarrollador full-stack en Paraguay.** Analista Programador en Mapfre y fundador de **EC Soluciones Software**, donde construyo sistemas de gestión a medida para negocios paraguayos: ventas, facturación, cobranzas y torneos.
 
