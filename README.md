@@ -3,8 +3,8 @@
 **Desarrollador full-stack en Paraguay.** Analista Programador en Mapfre y fundador de **EC Soluciones Software**, donde construyo sistemas de gestión a medida para negocios paraguayos: ventas, facturación, cobranzas y torneos.
 
 - 🏦 4 años de experiencia en seguros, banca y distribución (Mapfre · CLT / Banco Continental · CAST)
-- 🎓 Lic. en Análisis de Sistemas Informáticos, Universidad Católica (becario de Itaipú)
-- 🌐 [ecsoluciones.com.py](https://ecsoluciones.com.py)
+- 🎓 Lic. en Análisis de Sistemas Informáticos, Universidad Católica
+- 🌐 [iam.ecsoluciones.com.py](https://iam.ecsoluciones.com.py)
 
 ---
 
