@@ -1,10 +1,10 @@
-<h1 align="left">Hola, soy Ever Cáceres</h1>
+<h1 align="left">Hola, soy Ever Cáceres </h1>
 
 **Desarrollador full-stack en Paraguay.** Analista Programador en Mapfre y fundador de **EC Soluciones Software**, donde construyo sistemas de gestión a medida para negocios paraguayos: ventas, facturación, cobranzas y torneos.
 
 - 🏦 4 años de experiencia en seguros, banca y distribución (Mapfre · CLT / Banco Continental · CAST)
-- 🎓 Lic. en Análisis de Sistemas Informáticos, Universidad Católica
-- 🌐 [iam.ecsoluciones.com.py](https://iam.ecsoluciones.com.py)
+- 🎓 Lic. en Análisis de Sistemas Informáticos, Universidad Católica (becario de Itaipú)
+- 🌐 [ecsoluciones.com.py](https://iam.ecsoluciones.com.py)
 
 ---
 
@@ -13,7 +13,7 @@
 | Proyecto | Qué hace | Estado | Stack |
 |---|---|---|---|
 | **ManagerStore** | Gestión para comercios multi-tenant: ventas con código de barras, factura en PDF, caja, reportes y etiquetas térmicas | 🟢 En producción | .NET 10 · Razor Pages · PostgreSQL · EF Core |
-| **[MiTorneo](https://mitorneo.ecsoluciones.com.py)** | Fixture, resultados, tabla de posiciones y goleadores para torneos de fútbol | 🟢 En producción | React · Render · Cloudflare |
+| **[MiTorneo](https://mitorneo.ecsoluciones.com.py)** | Fixture, resultados, tabla de posiciones y goleadores para torneos de fútbol. Se viene la 2.0, abierta para cualquier liga u organizador | 🟢 En producción | React · Render · Cloudflare |
 | **CashCobranzas** | Préstamos y cobranza diaria con cobradores por zona, aprobaciones y hoja de ruta | 🟡 En desarrollo | .NET · PostgreSQL |
 
 > El código de los proyectos para clientes es privado. Si querés ver una demo, escribime.
